@@ -1,5 +1,5 @@
 # Phospho-Enrichment-Correction
-This small Java applet can be used to clean the output of <> Mass Spectrometry software that produces incorrect peptide sequences given their Phospho-enrichment site probabilities.
+This small Java applet can be used to clean the output of Thermo Proteome Discoverer™ Mass Spectrometry software for PhosphoRS 3.0 that produces incorrect peptide sequences given their Phospho-enrichment site probabilities.
 ## How To Use
 1. Export the peptide sequences with their probabilities of Phospho-enrichment (including any other data that will be used thereafter) as comma separated values series.
 2. Import into the Phospho-Enrichment-Correction program and select the necessary parameters;
